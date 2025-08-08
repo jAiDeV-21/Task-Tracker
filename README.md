@@ -1,5 +1,6 @@
 # Task-Tracker
-A task tracker to manage tasks, using command-line utility implemented in Python.
+A task tracker to manage tasks, using command-line utility implemented in Python.  
+This project idea has been selected from <a>https://roadmap.sh/projects/task-tracker</a>.
 
 ## Functionality:
 You can have your tasks categorised into 'todo', 'in-progress' and 'done'. All tasks are stored in a JSON filed named 'tasks.json'. </br>
